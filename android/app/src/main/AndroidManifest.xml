@@ -5,8 +5,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:label="Frama Busca Preço"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Frama Busca Preço">
         
         <activity
             android:name=".MainActivity"
